@@ -1,0 +1,6 @@
+{
+    "test_connection": {
+        "origin": "../sync-test-origin",
+        "target": "../sync-test-target"
+    }
+}
